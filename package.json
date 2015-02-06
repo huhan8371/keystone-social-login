@@ -31,7 +31,8 @@
     "passport-google-oauth": "^0.1.5",
     "passport-twitter": "^1.0.2",
     "serve-static": "^1.5.2",
-    "underscore": "^1.6.0"
+    "underscore": "^1.6.0",
+    "passport-weixin-plus": "git+https://github.com/huhan8371/passport-weixin-plus.git#master"
   },
   "devDependencies": {
     "chai": "^1.9.1",
